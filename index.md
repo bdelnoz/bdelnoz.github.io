@@ -6,13 +6,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bdelnoz-0077B5?logo=linkedin)](https://linkedin.com/in/bdelnoz)
 [![Email](https://img.shields.io/badge/Email-bruno.delnoz@protonmail.com-D14836?logo=protonmail)](mailto:bruno.delnoz@protonmail.com)
 
+**Rochefort, Wallonia, Belgium** • À 3 km de l'Abbaye Notre-Dame de Saint-Rémy • Disponible immédiatement • Remote / Hybrid / On-site
+
 ---
 
-## Open‑Source Projects on GitHub (complete list – scanned 08/11/2025)
+## Open‑Source Projects on GitHub (complete list – scanned 11/11/2025)
 
 | Project | Language | Description |
 |---------|----------|-------------|
-| **[`NoXoZVorteX`](https://github.com/bdelnoz/NoXoZVorteX)** | Python | Python script to extract and analyze technical subjects and skills discussed in conversations with AIs (ChatGPT, Claude, LeChat). **Goal**: Capitalize on knowledge gained from 900+ conversations to build a personal skills matrix. |
+| **[`NoXoZVorteX`](https://github.com/bdelnoz/NoXoZVorteX)** | Python | Python script to extract and analyze technical subjects and skills discussed in conversations with AIs (ChatGPT, Claude, LeChat). **Goal**: Capitalize on knowledge gained from 900+ conversations to build a personal skills matrix. **Mon projet de cœur en 2025.** |
 | **[`NoXoZVorteX_prompted`](https://github.com/bdelnoz/NoXoZVorteX_prompted)** | Python | French version – Exécuteur de Prompts de Conversations IA – Un outil Python puissant pour analyser des conversations IA exportées (ChatGPT, Claude, LeChat/Mistral) à l’aide de prompts personnalisés. |
 | **[`NoXoZVorteX_prompted_en`](https://github.com/bdelnoz/NoXoZVorteX_prompted_en)** | Python | English version – **AI Conversation Prompt Executor** – A powerful Python tool for analyzing exported AI conversations (ChatGPT, Claude, LeChat/Mistral) using custom prompts. |
 | **[`regles_contextualisation`](https://github.com/bdelnoz/regles_contextualisation)** | – | Ce repo contient mes règles de contextualisation a coller dans les prompt IA. Ces règles me servent a ne pas perdre du temps et a harmoniser le contexte dans mes differents comptes IA : LeChat, ChatGPT, Claude. |
@@ -668,7 +670,7 @@ Proven track record of delivering innovative solutions that bridge traditional I
 
 **Career Trajectory:**
 
-- Establish recognized expertise in AI infrastructure and security
+- Establish recognized expertise in AI infrastructure infrastructure and security
 - Build sustainable open source projects with large communities
 - **Potentially found or join AI‑focused startup**
 - Contribute to important technological standards and protocols
@@ -820,7 +822,7 @@ Proven track record of delivering innovative solutions that bridge traditional I
 4. **Long‑term Thinking**
    - Designs for scalability and maintainability
    - Considers security from the start
-   - Plans for future growth and changes
+   - Considers future growth and changes
    - Balances quick wins with sustainable architecture
 
 5. **Open Source Ethos**
@@ -1060,5 +1062,4 @@ Whether you’re facing a critical security issue, need AI integration expertise
 
 bruno.delnoz@protonmail.com | Belgium | Available Worldwide (Remote)
 
-*Last Updated: November 08, 2025*  
-*Version: 4.2 – Complete, English‑only Edition*
+*Last Updated: November 11, 2025 – Version 4.3 – Rochefort 8 Certified Edition™*
