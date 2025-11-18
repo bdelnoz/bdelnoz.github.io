@@ -1,2 +1,33 @@
-index.v1.0.md
-./old
+# === Versions anciennes du site ===
+index.v*.md
+index.old.md
+*.backup.*
+
+# === Dossiers temporaires / anciens ===
+old/
+./old/
+old
+temp/
+tmp/
+
+# === Fichiers sensibles / perso (au cas où) ===
+# *.docx
+*.pdf
+*.xlsx
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# === Éditeurs & OS ===
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# === Cache & builds locaux ===
+_cache/
+_site/
+.jekyll-cache/
