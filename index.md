@@ -2,21 +2,20 @@
   html, body {
     background-color: #000000 !important;
     color: #e0e0e0 !important;
-    margin: 0; padding: 20px;
+    margin: 0; padding: 30px;
     min-height: 100vh;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    line-height: 1.6;
+    line-height: 1.7;
   }
   a { color: #58a6ff !important; text-decoration: none; }
   a:hover { color: #8bb5ff !important; }
   h1, h2, h3, h4 { color: #ffffff !important; }
-  hr { border-color: #333 !important; }
+  hr { border-color: #444 !important; }
   table { border-collapse: collapse; width: 100%; }
-  th, td { border: 1px solid #444; padding: 8px; text-align: left; }
-  th { background-color: #1a1a1a; }
-  blockquote { border-left: 4px solid #58a6ff; padding-left: 15px; color: #ccc; }
+  th, td { border: 1px solid #444; padding: 10px; text-align: left; }
+  th { background-color: #111 !important; color: #58a6ff !important; }
+  tr:nth-child(even) { background-color: #0f0f0f !important; }
 </style>
-
 
 # BRUNO DELNOZ – +32 475 381 144
 
@@ -1082,4 +1081,4 @@ Whether you’re facing a critical security issue, need AI integration expertise
 
 bruno.delnoz@protonmail.com | Belgium | Available Worldwide (Remote)
 
-*Last Updated: November 11, 2025 – Version 4.3 – Rochefort 8 Certified Edition™*
+*Last Updated: November 18, 2025 – Version 4.4 – Total Black Theme Edition*
