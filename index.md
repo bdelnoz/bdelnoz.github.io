@@ -8,6 +8,13 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     line-height: 1.7;
   }
+  
+  /* FIX pour le texte en strong/bold */
+  strong, b {
+    color: #e0e0e0 !important;
+    background-color: transparent !important;
+  }
+  
   a { color: #58a6ff !important; text-decoration: none; }
   a:hover { color: #8bb5ff !important; }
   h1, h2, h3, h4 { color: #ffffff !important; }
