@@ -17,16 +17,19 @@ layout: default
 
 | Project | Language | Description |
 |---------|----------|-------------|
-| **[`NoXoZVorteX`](https://github.com/bdelnoz/NoXoZVorteX)** | Python | Python script to extract and analyze technical subjects and skills discussed in conversations with AIs (ChatGPT, Claude, LeChat). **Goal**: Capitalize on knowledge gained from 900+ conversations to build a personal skills matrix. **My passion project for 2025.** |
-| **[`NoXoZVorteX_prompted`](https://github.com/bdelnoz/NoXoZVorteX_prompted)** | Python | **French version** – AI Prompt Executor – Automated analysis of exported conversations with custom prompts. Multi-format support (ChatGPT, Claude, LeChat/Mistral). Outputs: CSV, JSON, TXT, Markdown. |
-| **[`NoXoZVorteX_prompted_en`](https://github.com/bdelnoz/NoXoZVorteX_prompted_en)** | Python | **English version** – AI Conversation Prompt Executor (v3.0.2) – Powerful Python tool for analyzing exported AI conversations using custom prompts. Features: multi-format support, parallel processing, auto-splitting, flexible outputs (CSV/JSON/TXT/MD). |
-| **[`regles_contextualisation`](https://github.com/bdelnoz/regles_contextualisation)** | Markdown | **Official Contextualization Rules V110** – 98 master rules for Claude AI interactions across 8 sections: vocal mode, text mode, scripting (master), tone/style, clarity, memory. 520+ sub-rules. Automatic .gitignore management, auto-documentation generation. |
-| **[`scripts-wifi-scan`](https://github.com/bdelnoz/scripts-wifi-scan)** | Shell | **Wi-Fi Analysis with airodump-ng** – Automated Kali Linux script for Wi-Fi scanning in monitor mode. Auto-generates .csv/.pcap files, handles cleanup, restores managed mode. Security expert tool for network reconnaissance. |
-| **[`braveVTTextension`](https://github.com/bdelnoz/braveVTTextension)** | JavaScript | **Whisper Local STT Extension v2.0.0** – 100% local voice transcription for Brave browser using whisper.cpp. Features: auto-stop after 10s silence, auto-ENTER, 9+ languages support, React/Vue/Angular compatible. Zero cloud, complete privacy. |
+| **[`braveVTTextension_en`](https://github.com/bdelnoz/braveVTTextension_en)** | JavaScript | **Whisper Local STT v3.0.1** – 100% local Brave extension (whisper.cpp), 9+ languages, auto-stop on silence, auto-ENTER, zero cloud, privacy-first voice transcription. |
+| **[`braveVTTextension`](https://github.com/bdelnoz/braveVTTextension)** | Jayourself/JavaScript | French version of the same 100% local Whisper Brave extension (v2.0.0). |
+| **[`NoXoZVorteX_prompted_en`](https://github.com/bdelnoz/NoXoZVorteX_prompted_en)** | Python | **AI Prompt Executor EN v3.0.2** – Bulk analysis of exported AI convos (ChatGPT/Claude/LeChat) with custom prompts, CSV/JSON/MD outputs, parallel processing. |
+| **[`NoXoZVorteX_prompted`](https://github.com/bdelnoz/NoXoZVorteX_prompted)** | Python | French version of the same powerful AI conversation prompt executor. |
+| **[`NoXoZVorteX`](https://github.com/bdelnoz/NoXoZVorteX)** | Python | Skill extractor from 900+ AI conversations – foundation of my 2025 technical skills matrix. |
+| **[`cmd.airmon-to-dos`](https://github.com/bdelnoz/cmd.airmon-to-dos)** | Shell | Fast WiFi DoS + scanning script for Kali (`cmd.airmon-dos.fr.sh` v51) – quick deauth & recon tool. |
+| **[`regles_contextualisation`](https://github.com/bdelnoz/regles_contextualisation)** | Markdown | **Official Contextualization Rules V110** – 98 master rules + 520 sub-rules for Claude/Grok/ChatGPT (vocal/text, scripting, memory). |
+| **[`iptables`](https://github.com/bdelnoz/iptables)** | Shell | Strict SystemD + iptables firewall auto-installed at boot (`fw.sh` + service). |
+| **[`scripts-wifi-scan`](https://github.com/bdelnoz/scripts-wifi-scan)** | Shell | Full Kali WiFi scanning suite (`airodump-ng`) – auto monitor mode, GPS, CSV/PCAP output, cleanup. |
+| **[`rtl88x2bu`](https://github.com/bdelnoz/rtl88x2bu)** | C | Updated Realtek rtl88x2bu WiFi driver fork for kernels 5.4-6.13 (DKMS, Secure Boot, AP mode). |
+| **[`diff_files_not_copied`](https://github.com/bdelnoz/diff_files_not_copied)** | Shell | Future diff utility for uncopied files (currently empty). |
 
-> **Total public repos:** 6 – Production-ready tools for AI analysis, security testing, voice transcription, and automation.
-
----
+**Total public repos: 11** – Highlight on privacy voice tools, AI conversation analysis, and offensive/security scripting.
 
 # BRUNO DELNOZ – +32 475 381 144
 
