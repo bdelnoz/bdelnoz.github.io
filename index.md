@@ -2,20 +2,12 @@
   html, body {
     background-color: #000000 !important;
     color: #e0e0e0 !important;
-    margin: 0; padding: 30px;
+    margin: 0; 
+    padding: 30px;
     min-height: 100vh;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     line-height: 1.7;
   }
-  a { color: #58a6ff !important; text-decoration: none; }
-  a:hover { color: #8bb5ff !important; }
-  h1, h2, h3, h4 { color: #ffffff !important; }
-  hr { border-color: #444 !important; }
-  table { border-collapse: collapse; width: 100%; }
-  th, td { border: 1px solid #444; padding: 10px; text-align: left; }
-  th { background-color: #111 !important; color: #58a6ff !important; }
-  tr:nth-child(even) { background-color: #0f0f0f !important; }
-</style>
 
 # BRUNO DELNOZ – +32 475 381 144
 
@@ -25,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bdelnoz-0077B5?logo=linkedin)](https://linkedin.com/in/bdelnoz)
 [![Email](https://img.shields.io/badge/Email-bruno.delnoz@protonmail.com-D14836?logo=protonmail)](mailto:bruno.delnoz@protonmail.com)
 
-**Rochefort, Wallonia, Belgium** • À 3 km de l'Abbaye Notre-Dame de Saint-Rémy • Disponible immédiatement • Remote / Hybrid / On-site
+**Rochefort, Wallonia, Belgium** • Disponible immédiatement • Remote / Hybrid / On-site
 
 ---
 
