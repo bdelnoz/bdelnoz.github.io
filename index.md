@@ -13,18 +13,18 @@ layout: default
 
 ---
 
-## Open‑Source Projects on GitHub (complete list – scanned 11/11/2025)
+## Open‑Source Projects on GitHub (complete list – scanned 19/11/2025)
 
 | Project | Language | Description |
 |---------|----------|-------------|
-| **[`NoXoZVorteX`](https://github.com/bdelnoz/NoXoZVorteX)** | Python | Python script to extract and analyze technical subjects and skills discussed in conversations with AIs (ChatGPT, Claude, LeChat). **Goal**: Capitalize on knowledge gained from 900+ conversations to build a personal skills matrix. **Mon projet de cœur en 2025.** |
-| **[`NoXoZVorteX_prompted`](https://github.com/bdelnoz/NoXoZVorteX_prompted)** | Python | French version – Exécuteur de Prompts de Conversations IA – Un outil Python puissant pour analyser des conversations IA exportées (ChatGPT, Claude, LeChat/Mistral) à l’aide de prompts personnalisés. |
-| **[`NoXoZVorteX_prompted_en`](https://github.com/bdelnoz/NoXoZVorteX_prompted_en)** | Python | English version – **AI Conversation Prompt Executor** – A powerful Python tool for analyzing exported AI conversations (ChatGPT, Claude, LeChat/Mistral) using custom prompts. |
-| **[`regles_contextualisation`](https://github.com/bdelnoz/regles_contextualisation)** | – | Ce repo contient mes règles de contextualisation a coller dans les prompt IA. Ces règles me servent a ne pas perdre du temps et a harmoniser le contexte dans mes differents comptes IA : LeChat, ChatGPT, Claude. |
-| **[`scripts-wifi-scan`](https://github.com/bdelnoz/scripts-wifi-scan)** | Shell | My scripting to scan wifi around my Kali Linux. |
-| **[`braveVTTextension`](https://github.com/bdelnoz/braveVTTextension)** | Shell | (No description available) – Extension/script for Brave browser VT (VirusTotal?) integration. |
+| **[`NoXoZVorteX`](https://github.com/bdelnoz/NoXoZVorteX)** | Python | Python script to extract and analyze technical subjects and skills discussed in conversations with AIs (ChatGPT, Claude, LeChat). **Goal**: Capitalize on knowledge gained from 900+ conversations to build a personal skills matrix. **My passion project for 2025.** |
+| **[`NoXoZVorteX_prompted`](https://github.com/bdelnoz/NoXoZVorteX_prompted)** | Python | **French version** – AI Prompt Executor – Automated analysis of exported conversations with custom prompts. Multi-format support (ChatGPT, Claude, LeChat/Mistral). Outputs: CSV, JSON, TXT, Markdown. |
+| **[`NoXoZVorteX_prompted_en`](https://github.com/bdelnoz/NoXoZVorteX_prompted_en)** | Python | **English version** – AI Conversation Prompt Executor (v3.0.2) – Powerful Python tool for analyzing exported AI conversations using custom prompts. Features: multi-format support, parallel processing, auto-splitting, flexible outputs (CSV/JSON/TXT/MD). |
+| **[`regles_contextualisation`](https://github.com/bdelnoz/regles_contextualisation)** | Markdown | **Official Contextualization Rules V110** – 98 master rules for Claude AI interactions across 8 sections: vocal mode, text mode, scripting (master), tone/style, clarity, memory. 520+ sub-rules. Automatic .gitignore management, auto-documentation generation. |
+| **[`scripts-wifi-scan`](https://github.com/bdelnoz/scripts-wifi-scan)** | Shell | **Wi-Fi Analysis with airodump-ng** – Automated Kali Linux script for Wi-Fi scanning in monitor mode. Auto-generates .csv/.pcap files, handles cleanup, restores managed mode. Security expert tool for network reconnaissance. |
+| **[`braveVTTextension`](https://github.com/bdelnoz/braveVTTextension)** | JavaScript | **Whisper Local STT Extension v2.0.0** – 100% local voice transcription for Brave browser using whisper.cpp. Features: auto-stop after 10s silence, auto-ENTER, 9+ languages support, React/Vue/Angular compatible. Zero cloud, complete privacy. |
 
-> **Total public repos:** 6 – All are production‑ready, fully documented and open‑source.
+> **Total public repos:** 6 – Production-ready tools for AI analysis, security testing, voice transcription, and automation.
 
 ---
 
