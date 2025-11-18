@@ -8,6 +8,17 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     line-height: 1.7;
   }
+  a { color: #58a6ff !important; text-decoration: none; }
+  a:hover { color: #8bb5ff !important; }
+  h1, h2, h3, h4 { color: #ffffff !important; }
+  hr { border-color: #444 !important; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { border: 1px solid #444; padding: 10px; text-align: left; }
+  th { background-color: #111 !important; color: #58a6ff !important; }
+  tr:nth-child(even) { background-color: #0f0f0f !important; }
+</style>
+
+
 
 # BRUNO DELNOZ – +32 475 381 144
 
