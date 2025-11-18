@@ -1,3 +1,23 @@
+<style>
+  html, body {
+    background-color: #000000 !important;
+    color: #e0e0e0 !important;
+    margin: 0; padding: 20px;
+    min-height: 100vh;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+  }
+  a { color: #58a6ff !important; text-decoration: none; }
+  a:hover { color: #8bb5ff !important; }
+  h1, h2, h3, h4 { color: #ffffff !important; }
+  hr { border-color: #333 !important; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { border: 1px solid #444; padding: 8px; text-align: left; }
+  th { background-color: #1a1a1a; }
+  blockquote { border-left: 4px solid #58a6ff; padding-left: 15px; color: #ccc; }
+</style>
+
+
 # BRUNO DELNOZ – +32 475 381 144
 
 **Senior Technical Expert | AI Specialist | Security & Automation Architect**
