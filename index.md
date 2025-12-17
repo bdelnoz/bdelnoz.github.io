@@ -1,7 +1,7 @@
 layout: default
 
 
-# BRUNO DELNOZ – +32 475 381 144
+# BRUNO DELNOZ – +32 475 381 144 Whatsapp ONLY 
 
 **Senior Technical Expert | AI Specialist | Security & Automation Architect**
 
