@@ -9,6 +9,7 @@ old/
 old
 temp/
 tmp/
+other/
 
 # === Fichiers sensibles / perso (au cas où) ===
 # *.docx

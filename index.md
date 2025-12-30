@@ -13,23 +13,69 @@ layout: default
 
 ---
 
-## Open‑Source Projects on GitHub (complete list – scanned 19/11/2025)
+## Open‑Source Projects on GitHub (complete list – scanned 30/12/2025)
+
+### 🎯 Featured Projects - AI & Privacy Tools
 
 | Project | Language | Description |
 |---------|----------|-------------|
-| **[`braveVTTextension_en`](https://github.com/bdelnoz/braveVTTextension_en)** | JavaScript | **Whisper Local STT v3.0.1** – 100% local Brave extension (whisper.cpp), 9+ languages, auto-stop on silence, auto-ENTER, zero cloud, privacy-first voice transcription. |
-| **[`braveVTTextension`](https://github.com/bdelnoz/braveVTTextension)** | Jayourself/JavaScript | French version of the same 100% local Whisper Brave extension (v2.0.0). |
+| **[`braveVTTextension_en`](https://github.com/bdelnoz/braveVTTextension_en)** | Shell | **Whisper Local STT v3.0.1** – 100% local Brave extension (whisper.cpp), 9+ languages, auto-stop on silence, auto-ENTER, zero cloud, privacy-first voice transcription. |
+| **[`braveVTTextension`](https://github.com/bdelnoz/braveVTTextension)** | Shell | French version of the same 100% local Whisper Brave extension (v2.0.0). |
 | **[`NoXoZVorteX_prompted_en`](https://github.com/bdelnoz/NoXoZVorteX_prompted_en)** | Python | **AI Prompt Executor EN v3.0.2** – Bulk analysis of exported AI convos (ChatGPT/Claude/LeChat) with custom prompts, CSV/JSON/MD outputs, parallel processing. |
 | **[`NoXoZVorteX_prompted`](https://github.com/bdelnoz/NoXoZVorteX_prompted)** | Python | French version of the same powerful AI conversation prompt executor. |
 | **[`NoXoZVorteX`](https://github.com/bdelnoz/NoXoZVorteX)** | Python | Skill extractor from 900+ AI conversations – foundation of my 2025 technical skills matrix. |
-| **[`cmd.airmon-to-dos`](https://github.com/bdelnoz/cmd.airmon-to-dos)** | Shell | Fast WiFi DoS + scanning script for Kali (`cmd.airmon-dos.fr.sh` v51) – quick deauth & recon tool. |
-| **[`regles_contextualisation`](https://github.com/bdelnoz/regles_contextualisation)** | Markdown | **Official Contextualization Rules V110** – 98 master rules + 520 sub-rules for Claude/Grok/ChatGPT (vocal/text, scripting, memory). |
-| **[`iptables`](https://github.com/bdelnoz/iptables)** | Shell | Strict SystemD + iptables firewall auto-installed at boot (`fw.sh` + service). |
-| **[`scripts-wifi-scan`](https://github.com/bdelnoz/scripts-wifi-scan)** | Shell | Full Kali WiFi scanning suite (`airodump-ng`) – auto monitor mode, GPS, CSV/PCAP output, cleanup. |
-| **[`rtl88x2bu`](https://github.com/bdelnoz/rtl88x2bu)** | C | Updated Realtek rtl88x2bu WiFi driver fork for kernels 5.4-6.13 (DKMS, Secure Boot, AP mode). |
-| **[`diff_files_not_copied`](https://github.com/bdelnoz/diff_files_not_copied)** | Shell | Future diff utility for uncopied files (currently empty). |
+| **[`DeepEcho_whisper`](https://github.com/bdelnoz/DeepEcho_whisper)** | C++ | **Whisper C++ Integration** – Advanced whisper.cpp implementation for local audio transcription. |
+| **[`poc_mistral`](https://github.com/bdelnoz/poc_mistral)** | Scripts | **Mistral AI PoC** – Proof of concept for Mistral AI integration and experimentation. |
 
-**Total public repos: 11** – Highlight on privacy voice tools, AI conversation analysis, and offensive/security scripting.
+### 🛡️ Security & WiFi Testing Tools
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| **[`cmd.airmon-to-dos`](https://github.com/bdelnoz/cmd.airmon-to-dos)** | Shell | Fast WiFi DoS + scanning script for Kali (`cmd.airmon-dos.fr.sh` v51) – quick deauth & recon tool. |
+| **[`scripts-wifi-scan`](https://github.com/bdelnoz/scripts-wifi-scan)** | Shell | Full Kali WiFi scanning suite (`airodump-ng`) – auto monitor mode, GPS, CSV/PCAP output, cleanup. |
+| **[`scan_security`](https://github.com/bdelnoz/scan_security)** | Shell | **Security Scanning Toolkit** – Automated security assessment and vulnerability scanning scripts. |
+| **[`iptables`](https://github.com/bdelnoz/iptables)** | Shell | Strict SystemD + iptables firewall auto-installed at boot (`fw.sh` + service). |
+| **[`rtl88x2bu`](https://github.com/bdelnoz/rtl88x2bu)** | C | Updated Realtek rtl88x2bu WiFi driver fork for kernels 5.4-6.13 (DKMS, Secure Boot, AP mode). |
+
+### 🎥 Media Processing & Recording
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| **[`Overlook_record_cam`](https://github.com/bdelnoz/Overlook_record_cam)** | Shell | **Camera Recording Suite** – Automated camera recording and surveillance management system. |
+| **[`mp4_to_images_per_second`](https://github.com/bdelnoz/mp4_to_images_per_second)** | Shell | **Video Frame Extraction** – Extract images per second from MP4 videos for analysis. |
+| **[`compressvideo`](https://github.com/bdelnoz/compressvideo)** | Shell | **Video Compression Tool** – Optimized video compression with quality preservation. |
+| **[`purgeaudio`](https://github.com/bdelnoz/purgeaudio)** | Shell | **Audio Cleanup Utility** – Automated audio file cleanup and organization. |
+
+### 🔧 System Administration & Storage
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| **[`create_luks`](https://github.com/bdelnoz/create_luks)** | Shell | **LUKS Encryption Automation** – Automated creation and management of LUKS encrypted volumes. |
+| **[`systemctl_mounting`](https://github.com/bdelnoz/systemctl_mounting)** | Shell | **SystemD Mount Manager** – Automated volume mounting via systemd services. |
+| **[`non_destructive_ntfs_audit`](https://github.com/bdelnoz/non_destructive_ntfs_audit)** | Shell | **Safe NTFS Auditing** – Non-destructive NTFS filesystem audit and analysis tool. |
+| **[`diff_files_not_copied`](https://github.com/bdelnoz/diff_files_not_copied)** | Shell | **Differential Sync Utility** – Track and manage files not yet synchronized between locations. |
+
+### 🔬 Analysis & Development Tools
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| **[`analyseBrave`](https://github.com/bdelnoz/analyseBrave)** | Shell | **Brave Browser Analysis** – Monitor and analyze Brave browser activity and performance. |
+| **[`analyseProcess`](https://github.com/bdelnoz/analyseProcess)** | Shell | **Process Monitor** – Advanced system process analysis and monitoring toolkit. |
+| **[`create_repo`](https://github.com/bdelnoz/create_repo)** | Shell | **GitHub Automation** – Automated GitHub repository creation and configuration. |
+
+### 📚 Documentation & Standards
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| **[`regles_contextualisation`](https://github.com/bdelnoz/regles_contextualisation)** | Markdown | **Official Contextualization Rules V110** – 98 master rules + 520 sub-rules for Claude/Grok/ChatGPT (vocal/text, scripting, memory). |
+
+### 🌐 Portfolio & Website
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| **[`bdelnoz.github.io`](https://github.com/bdelnoz/bdelnoz.github.io)** | CSS | **Professional Portfolio** – GitHub Pages portfolio website showcasing projects and expertise. |
+
+**Total public repos: 24** – Comprehensive portfolio covering AI/ML integration, privacy-first tools, cybersecurity, media processing, system administration, and automation scripting.
 
 # BRUNO DELNOZ – +32 475 381 144
 
@@ -1068,4 +1114,4 @@ Whether you’re facing a critical security issue, need AI integration expertise
 
 bruno.delnoz@protonmail.com | Belgium | Available Worldwide (Remote)
 
-*Last Updated: November 18, 2025 – Version 4.4 – Total Black Theme Edition*
+*Last Updated: December 30, 2025 – Version 5.0 – Complete Projects Portfolio Edition*

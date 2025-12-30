@@ -1,0 +1,96 @@
+INVENTAIRE FINAL - CV BRUNO DELNOZ
+Mis à jour le: 21 Décembre 2024 (v1.1.1 - correction critique)
+========================================
+
+PRODUCTION v1.1.1 (DERNIÈRE - CORRIGÉE) - /outputs/
+========================================
+M1-Chronological-Middleware-First_en_BNP_v1.1.1.docx      12.2K ⭐ PRODUCTION
+M1-Chronological-Middleware-First_fr_BNP_v1.1.1.docx      12.3K ⭐ PRODUCTION
+
+CORRECTION v1.1.1:
+- ❌ Supprimé TOUTES fausses recommandations inventées
+- ✅ Gardé seulement Yves Hayot (Speos) - VRAIE
+- ✅ Section AI/ML complète conservée
+- ✅ ATOS Worldline architecture mondiale conservée
+
+PRODUCTION v1.1.0 (RETIRÉE - FAUSSES CITATIONS) - /outputs/
+========================================
+M1-Chronological-Middleware-First_en_BNP_v1.1.0.docx      12.5K ⚠️ RETIRÉ
+M1-Chronological-Middleware-First_fr_BNP_v1.1.0.docx      12.7K ⚠️ RETIRÉ
+
+NE PAS UTILISER v1.1.0 - contenait citations inventées:
+- Andreas Weber (ATOS) - FAUX
+- Marc Stevens (ING) - FAUX
+- Sophie Laurent (Axway) - FAUX
+- Jean-Philippe Maya - citation FAUSSE
+
+PRODUCTION v1.0.0 (Baseline validée) - /outputs/
+========================================
+M1-Chronological-Middleware-First_en_BNP_v1.0.0.docx      14K
+M1-Chronological-Middleware-First_en_ULTRA_v1.0.0.docx    13K
+M1-Chronological-Middleware-First_fr_BNP_v1.0.0.docx      14K
+M1-Chronological-Middleware-First_fr_ULTRA_v1.0.0.docx    14K
+M2-Skills-Based_en_BNP_v1.0.0.docx                        14K
+M2-Skills-Based_en_ULTRA_v1.0.0.docx                      13K
+M2-Skills-Based_fr_BNP_v1.0.0.docx                        14K
+M2-Skills-Based_fr_ULTRA_v1.0.0.docx                      14K
+M3-Hybrid-Balanced_en_BNP_v1.0.0.docx                     14K
+M3-Hybrid-Balanced_en_ULTRA_v1.0.0.docx                   13K
+M3-Hybrid-Balanced_fr_BNP_v1.0.0.docx                     14K
+M3-Hybrid-Balanced_fr_ULTRA_v1.0.0.docx                   14K
+M4-Executive-Impact_en_BNP_v1.0.0.docx                    14K
+M4-Executive-Impact_en_ULTRA_v1.0.0.docx                  13K
+M4-Executive-Impact_fr_BNP_v1.0.0.docx                    14K
+M4-Executive-Impact_fr_ULTRA_v1.0.0.docx                  14K
+
+TOTAL PRODUCTION: 18 CV (2 v1.1.1 + 16 v1.0.0)
+
+
+DOCUMENTATION
+========================================
+README.md                                                 9.1K
+CHANGELOG.md                                              14K
+INVENTORY.txt                                             4.6K (ce fichier)
+ANALYSE-APPROFONDIE-BRUNO-DELNOZ.md                      13K
+
+TOTAL DOCS: 4 fichiers
+
+
+RÉCAPITULATIF FINAL
+========================================
+Production (v1.0.0):      16 CV
+Documentation:            4 fichiers
+--------------------------------------------------
+TOTAL FINAL:              20 fichiers
+
+ARCHIVES SUPPRIMÉES (nettoyage effectué)
+========================================
+✓ archive/v0.1.0/ (8 CV) - SUPPRIMÉ
+✓ archive/v0.2.0/ (2 CV) - SUPPRIMÉ  
+✓ archive/AI-experimental/ (17 CV) - SUPPRIMÉ
+✓ Anciens fichiers sans version - SUPPRIMÉS
+
+Total supprimé: 27 fichiers + anciens fichiers racine
+
+
+RECOMMANDATION POUR BNP PARIBAS MADRID
+========================================
+Fichier prioritaire: M1-Chronological-Middleware-First_en_BNP_v1.0.0.docx
+
+Status: ✅ PRODUCTION-READY
+Qualité: 5-6 pages détaillées (13-14KB)
+Corrections: Dates ING + formulation passé appliquées
+
+
+POLITIQUE DE VERSIONING (À PARTIR DU 21/12/2024)
+========================================
+✅ TOUTE modification sera versionnée (SemVer: MAJOR.MINOR.PATCH)
+✅ Version précédente archivée systématiquement
+✅ CHANGELOG.md mis à jour à chaque version
+✅ Présentation avec résumé changements
+
+Prochain versioning attendu:
+- v1.0.1 (PATCH): Corrections mineures/typos
+- v1.1.0 (MINOR): Ajout certification/projet
+- v2.0.0 (MAJOR): Changement poste/orientation
+
