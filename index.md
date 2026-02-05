@@ -1,7 +1,11 @@
 layout: default
 
-
-# BRUNO DELNOZ – +32 475 381 144 Whatsapp ONLY 
+# Bruno Delnoz
+# Senior Middleware Integration & Digital Migration Consultant
+# 📍 Rochefort, Namur – Belgium
+# 📞 Main (GSM + SIGNAL) :+32 456 88 24 57 
+# 📞 Secondary (WHATSAPP ONLY) :  +32 475 38 11 44
+# ✉️ Email : bruno.denoz@protonmail.com
 
 **Senior Technical Expert | AI Specialist | Security & Automation Architect**
 
