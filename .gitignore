@@ -32,3 +32,28 @@ Thumbs.db
 _cache/
 _site/
 .jekyll-cache/
+
+# Section added automatically by html2docx_inline.sh
+/logs
+/results
+/outputs
+/infos
+
+# Section added automatically by html2docx_libreoffice.sh
+
+# ========================================
+# Template: shell
+# Added: 2026-02-05 00:56:59
+# ========================================
+logs/
+output/
+infos/
+result/
+results/
+backup/
+*.log
+*.zip
+*.tar.gz
+*.rar
+other/
+
