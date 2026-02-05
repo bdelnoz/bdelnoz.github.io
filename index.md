@@ -81,8 +81,6 @@ layout: default
 
 **Total public repos: 24** – Comprehensive portfolio covering AI/ML integration, privacy-first tools, cybersecurity, media processing, system administration, and automation scripting.
 
-# BRUNO DELNOZ – +32 475 381 144
-
 **Senior Technical Expert | AI Specialist | Security & Automation Architect**
 
 ## CONTACT & PROFILE

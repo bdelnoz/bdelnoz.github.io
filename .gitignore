@@ -13,7 +13,7 @@ other/
 
 # === Fichiers sensibles / perso (au cas où) ===
 # *.docx
-*.pdf
+# *.pdf
 *.xlsx
 *.zip
 *.rar
