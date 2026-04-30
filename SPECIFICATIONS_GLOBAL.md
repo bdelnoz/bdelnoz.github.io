@@ -68,3 +68,9 @@ Task-specific content refreshes belong in `SPECIFICATIONS.md` and `SPECIFICATION
   - Modified: N/A.
   - Removed: N/A.
   - Reason: Initialize mandatory global specification baseline.
+
+- v1.0.1 | 2026-04-30 00:00 UTC | Bruno DELNOZ
+  - Added: Baseline note that portfolio repository inventory can be rebuilt from controlled owner inventory when live API access is unavailable.
+  - Modified: Validation focus on avoiding stale repository counts in generated portfolio pages.
+  - Removed: N/A.
+  - Reason: Corrective quality pass after user feedback.

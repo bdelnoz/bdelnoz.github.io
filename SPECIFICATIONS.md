@@ -72,3 +72,9 @@ Rebuild `index.new.md` as a complete professional portfolio page, preserving the
   - Modified: N/A.
   - Removed: N/A.
   - Reason: User-approved rebuild of `index.new.md`.
+
+- v1.0.1 | 2026-04-30 00:00 UTC | Bruno DELNOZ
+  - Added: Corrective pass requested by user to rebuild `index.new.md` with 104 repositories and remove legacy duplicated block.
+  - Modified: Repository statistics and categorization consistency in generated portfolio draft.
+  - Removed: Legacy duplicated section copied from old `index.md` content.
+  - Reason: User rejection of previous draft quality and repository count mismatch.
