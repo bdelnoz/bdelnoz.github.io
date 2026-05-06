@@ -19,176 +19,216 @@ layout: default
 
 ---
 
-## GitHub Repository Portfolio (complete inventory – scanned 2026-04-29)
+---
+
+## EXECUTIVE SUMMARY
+
+Deeply passionate about AI/ML with a fascination for how models work and their transformative or disruptive potential. I approach this field with the same pioneering spirit that defined the early web era of the 1990s—where creativity and innovation are the only boundaries, and limitless possibilities emerge when knowledge is no longer the limiting factor.
+
+Elite technical polymath with 30+ years of progressive experience spanning infrastructure architecture, advanced scripting, cybersecurity, and artificial intelligence. Recognized expert in Bash/Python automation, AI/ML integration, and complex system optimization.
+
+Proven track record of delivering innovative solutions that bridge traditional IT infrastructure with cutting‑edge AI technologies. Successfully architected and deployed 100+ production‑grade automation tools, reducing operational overhead by up to 70% while enhancing security postures across multiple environments.
+
+**Core Expertise:** AI/ML Integration • Advanced Scripting • Network Security • System Architecture • DevOps/Automation • Open Source Development
+
+## PORTFOLIO SNAPSHOT
+
+This page is rebuilt from the local repository workspace, not from a partial GitHub-only listing. The repository portfolio below is based on the local Git repositories under `/mnt/data2_78g/Security/scripts` and the Markdown documentation extracted from each repository: `README.md`, `WHY.md`, `SPECIFICATIONS*.md`, `INSTALL.md`, `CHANGELOG.md`, audit notes, architecture notes, and related project documents.
+
+- **Local Git repositories analyzed:** 103
+- **Local PUBLIC repositories according to `syncgit.sh --listpubpriv`:** 38
+- **Local PRIVATE repositories according to `syncgit.sh --listpubpriv`:** 65
+- **Forks represented in the analyzed local set:** 2
+- **Source extraction date:** 2026-04-30
+
+Private repositories are intentionally listed without private GitHub URLs. Their descriptions stay high-level and portfolio-safe.
+
+## FEATURED ENGINEERING PROJECTS
+
+| Project | Visibility | Tech | Focus |
+|---------|------------|------|-------|
+| **[`braveVTTextension`](https://github.com/bdelnoz/braveVTTextension)** | PUBLIC | Shell | French Brave extension for 100% local Whisper-based speech-to-text with privacy-first browser input workflows. |
+| **[`braveVTTextension_en`](https://github.com/bdelnoz/braveVTTextension_en)** | PUBLIC | Shell | English Brave extension for local Whisper speech-to-text with auto-stop, auto-enter, and zero-cloud transcription goals. |
+| **[`codex-update-md`](https://github.com/bdelnoz/codex-update-md)** | PUBLIC | Shell | Bash automation workflow for running Codex against a repository and keeping Markdown documentation synchronized with repository reality. |
+| **[`DeepEcho_whisper`](https://github.com/bdelnoz/DeepEcho_whisper)** | PUBLIC | C++ | Local Whisper / whisper.cpp integration project for audio transcription, local speech processing, and voice tooling experiments. |
+| **[`friture-kali`](https://github.com/bdelnoz/friture-kali)** | PUBLIC | Shell | Kali-focused realtime audio spectrum/signal-analysis setup around Friture and Python virtual environment constraints. |
+| **[`NoXoZVorteX`](https://github.com/bdelnoz/NoXoZVorteX)** | PUBLIC | Python | Python tool extracting technical subjects and skills from exported AI conversations to build a structured technical knowledge and CV matrix. |
+| **[`NoXoZVorteX_prompted`](https://github.com/bdelnoz/NoXoZVorteX_prompted)** | PUBLIC | Python | French AI conversation prompt executor for bulk analysis of exported ChatGPT, Claude, and Le Chat conversations. |
+| **[`NoXoZVorteX_prompted_en`](https://github.com/bdelnoz/NoXoZVorteX_prompted_en)** | PUBLIC | Python | English AI conversation prompt executor for analyzing exported AI conversations with custom prompts and structured outputs. |
+| **[`syncgit`](https://github.com/bdelnoz/syncgit)** | PUBLIC | Shell | Bash automation tool that discovers local Git repositories and runs controlled sync, backup, reporting, and inventory operations. |
+| **[`voicelogin`](https://github.com/bdelnoz/voicelogin)** | PUBLIC | Shell | Local voice-login project for Kali/Debian XFCE/LightDM, combining speech verification concepts with PIN/PAM integration planning. |
+| **[`lucivy`](https://github.com/bdelnoz/lucivy)** | PUBLIC / FORK | Rust | Rust/Python BM25 full-text search fork with fuzzy substring matching, accent-insensitive search, and hybrid-search positioning. |
+| **[`rtl88x2bu`](https://github.com/bdelnoz/rtl88x2bu)** | PUBLIC / FORK | C | Realtek rtl88x2bu WiFi driver fork adapted for current Kali/Linux kernels and local USB WiFi/AP testing. |
+| **`dashboard`** | PRIVATE | Python | Private Python/Textual dashboard for hotspot services, firewall events, interface status, Tapo state, weather, and system metrics. |
+| **`ManInTheMiddle`** | PRIVATE | Shell | Private MITM lab repository for hotspot automation, SOURCE/SVR testing, dnsmasq/hostapd services, and firewall orchestration. |
+
+## COMPLETE LOCAL REPOSITORY PORTFOLIO
+
+The following inventory lists each analyzed local Git repository individually. Public repositories use public GitHub links when available. Private repositories are named but not linked.
 
 
-### 🎯 Featured Projects - AI & Privacy Tools
+### 🤖 AI, LLM, Voice & Automation
 
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **[`DeepEcho`](https://github.com/bdelnoz/DeepEcho)** | PUBLIC | No | Mixed | Repository focused on DeepEcho workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`braveVTTextension_en`](https://github.com/bdelnoz/braveVTTextension_en)** | PUBLIC | No | Mixed | Repository focused on braveVTTextension en workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`braveVTTextension`](https://github.com/bdelnoz/braveVTTextension)** | PUBLIC | No | Mixed | Repository focused on braveVTTextension workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`AI_tools`](https://github.com/bdelnoz/AI_tools)** | PUBLIC | No | Mixed | Repository focused on AI tools workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`NoXoZVorteX_working`](https://github.com/bdelnoz/NoXoZVorteX_working)** | PUBLIC | No | Mixed | Repository focused on NoXoZVorteX working workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`NoXoZVorteX_prompted_en`](https://github.com/bdelnoz/NoXoZVorteX_prompted_en)** | PUBLIC | No | Mixed | Repository focused on NoXoZVorteX prompted en workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`NoXoZVorteX_prompted`](https://github.com/bdelnoz/NoXoZVorteX_prompted)** | PUBLIC | No | Mixed | Repository focused on NoXoZVorteX prompted workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`NoXoZVorteX`](https://github.com/bdelnoz/NoXoZVorteX)** | PUBLIC | No | Mixed | Repository focused on NoXoZVorteX workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`NoXoZ_job`](https://github.com/bdelnoz/NoXoZ_job)** | PUBLIC | No | Mixed | Repository focused on NoXoZ job workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`NoXoZ4Hunt`](https://github.com/bdelnoz/NoXoZ4Hunt)** | PUBLIC | No | Mixed | Repository focused on NoXoZ4Hunt workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`DeepEcho_whisper`](https://github.com/bdelnoz/DeepEcho_whisper)** | PUBLIC | No | Mixed | Repository focused on DeepEcho whisper workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`AI_Personal_data`](https://github.com/bdelnoz/AI_Personal_data)** | PUBLIC | No | Mixed | Repository focused on AI Personal data workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`AI_information`](https://github.com/bdelnoz/AI_information)** | PUBLIC | No | Mixed | Repository focused on AI information workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`poc_mistral`](https://github.com/bdelnoz/poc_mistral)** | PUBLIC | No | Mixed | Repository focused on poc mistral workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`AI_Projects`](https://github.com/bdelnoz/AI_Projects)** | PUBLIC | No | Mixed | Repository focused on AI Projects workflows, with practical automation and implementation-oriented engineering patterns. |
+| Project | Visibility | Tech | Focus |
+|---------|------------|------|-------|
+| **[`codex-update-md`](https://github.com/bdelnoz/codex-update-md)** | PUBLIC | Shell | Bash automation workflow for running Codex against a repository and keeping Markdown documentation synchronized with repository reality. |
+| **[`DeepEcho_whisper`](https://github.com/bdelnoz/DeepEcho_whisper)** | PUBLIC | C++ | Local Whisper / whisper.cpp integration project for audio transcription, local speech processing, and voice tooling experiments. |
+| **[`NoXoZVorteX`](https://github.com/bdelnoz/NoXoZVorteX)** | PUBLIC | Python | Python tool extracting technical subjects and skills from exported AI conversations to build a structured technical knowledge and CV matrix. |
+| **[`NoXoZVorteX_prompted`](https://github.com/bdelnoz/NoXoZVorteX_prompted)** | PUBLIC | Python | French AI conversation prompt executor for bulk analysis of exported ChatGPT, Claude, and Le Chat conversations. |
+| **[`NoXoZVorteX_prompted_en`](https://github.com/bdelnoz/NoXoZVorteX_prompted_en)** | PUBLIC | Python | English AI conversation prompt executor for analyzing exported AI conversations with custom prompts and structured outputs. |
+| **[`Overlook_record_cam`](https://github.com/bdelnoz/Overlook_record_cam)** | PUBLIC | Shell | Shell-based recording toolkit for Linux desktop/audio capture and camera-oriented recording workflows. |
+| **[`poc_mistral`](https://github.com/bdelnoz/poc_mistral)** | PUBLIC | Shell / Markdown | Proof-of-concept repository for Mistral AI experimentation and local AI integration tests. |
+| **[`voicelogin`](https://github.com/bdelnoz/voicelogin)** | PUBLIC | Shell | Local voice-login project for Kali/Debian XFCE/LightDM, combining speech verification concepts with PIN/PAM integration planning. |
+| **[`lucivy`](https://github.com/bdelnoz/lucivy)** | PUBLIC / FORK | Rust | Rust/Python BM25 full-text search fork with fuzzy substring matching, accent-insensitive search, and hybrid-search positioning. |
+| **`AI_information`** | PRIVATE | JavaScript | Private knowledge base for AI model behavior, contextualization rules, and technical notes used across AI workflows. |
+| **`AI_Personal_data`** | PRIVATE | Shell / Markdown | Private personal AI data repository; public-facing details intentionally limited. |
+| **`AI_Projects`** | PRIVATE | Shell / Markdown | Parent workspace for AI, LLM, prompt engineering, transcription, and automation repositories. |
+| **`AI_tools`** | PRIVATE | Python | Private collection of AI utilities and helper scripts used across local AI workflows. |
+| **`captureNoXoZ`** | PRIVATE | Shell | Private multi-interface packet-capture and analysis tooling repository. |
+| **`ChatGPTcreatecontext`** | PRIVATE | Shell / Markdown | Private repository for ChatGPT context-building, prompt rules, feature requests, and conversation-structuring material. |
+| **`ColtSivers`** | PRIVATE | Python | Private RikHunter-derived project scaffold and bootstrap environment for FastAPI/Ollama-oriented AI tooling. |
+| **`DeepEcho`** | PRIVATE | Shell | Private DeepEcho video/audio transcription and analysis repository. |
+| **`Emploi`** | PRIVATE | HTML | Private employment and CV source repository containing career material, prompts, job-offer analysis, and generated CV variants. |
+| **`Emploi_public`** | PRIVATE | HTML | Sanitized employment/CV publication workspace used to separate public-facing material from private job-search data. |
+| **`Gamblox`** | PRIVATE | Python | Private poker-table analysis and experimentation project with Python tooling and audit documentation. |
+| **`Gamblox`** | PRIVATE | Python | Private poker-table analysis and experimentation project with Python tooling and audit documentation. |
+| **`NoXoZ4Hunt`** | PRIVATE | Shell | Private AI-assisted investigation and hunter-style project scaffold for structured analysis workflows. |
+| **`NoXoZ_job`** | PRIVATE | Python | Private job/CV automation platform combining document ingestion, AI analysis, FastAPI, Ollama, and structured career-data workflows. |
+| **`NoXoZ_job`** | PRIVATE | Python | Private job/CV automation platform combining document ingestion, AI analysis, FastAPI, Ollama, and structured career-data workflows. |
+| **`NoXoZVorteX_working`** | PRIVATE | Python | Private working branch for AI conversation analysis, bilingual documentation, and AIQuisitor-related experiments. |
+| **`RikHunter`** | PRIVATE | Python | Private FastAPI/Ollama project with upload, generation, SQLite inspection, monitoring, and license-control concepts. |
 
-### 🤖 AI, LLM, Voice & Automation Projects
+### 🛡️ Security, WiFi & Network
 
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **[`voicelogin`](https://github.com/bdelnoz/voicelogin)** | PUBLIC | No | Mixed | Repository focused on voicelogin workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`song_maker_AI_local`](https://github.com/bdelnoz/song_maker_AI_local)** | PUBLIC | No | Mixed | Repository focused on song maker AI local workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`codex-update-md`](https://github.com/bdelnoz/codex-update-md)** | PUBLIC | No | Mixed | Repository focused on codex update md workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`ChatGPTcreatecontext`](https://github.com/bdelnoz/ChatGPTcreatecontext)** | PUBLIC | No | Mixed | Repository focused on ChatGPTcreatecontext workflows, with practical automation and implementation-oriented engineering patterns. |
-
-### 🛡️ Security, WiFi & Network Projects
-
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **[`scripts-wifi-scan`](https://github.com/bdelnoz/scripts-wifi-scan)** | PUBLIC | No | Mixed | Repository focused on scripts wifi scan workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`wlaninfo`](https://github.com/bdelnoz/wlaninfo)** | PUBLIC | No | Mixed | Repository focused on wlaninfo workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`ssh_hardening`](https://github.com/bdelnoz/ssh_hardening)** | PUBLIC | No | Mixed | Repository focused on ssh hardening workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`scan_security`](https://github.com/bdelnoz/scan_security)** | PUBLIC | No | Mixed | Repository focused on scan security workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`rasperry-scanbt`](https://github.com/bdelnoz/rasperry-scanbt)** | PUBLIC | No | Mixed | Repository focused on rasperry scanbt workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`rasperry-bt-scan`](https://github.com/bdelnoz/rasperry-bt-scan)** | PUBLIC | No | Mixed | Repository focused on rasperry bt scan workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`iptables`](https://github.com/bdelnoz/iptables)** | PUBLIC | No | Mixed | Repository focused on iptables workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`cmd.airmon-to-dos`](https://github.com/bdelnoz/cmd.airmon-to-dos)** | PUBLIC | No | Mixed | Repository focused on cmd.airmon to dos workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Projects_security`](https://github.com/bdelnoz/Projects_security)** | PUBLIC | No | Mixed | Repository focused on Projects security workflows, with practical automation and implementation-oriented engineering patterns. |
+| Project | Visibility | Tech | Focus |
+|---------|------------|------|-------|
+| **`cmd`** | PUBLIC | Shell / Markdown | cmd.airmon-dos.sh is a Wi-Fi auditing script built around the Aircrack-ng suite. It can |
+| **[`create_luks`](https://github.com/bdelnoz/create_luks)** | PUBLIC | Shell | Shell automation for creating and managing LUKS encrypted volumes and related operational documentation. |
+| **[`iptables`](https://github.com/bdelnoz/iptables)** | PUBLIC | Shell | SystemD-backed iptables firewall repository for strict Linux firewall automation and boot-time rule loading. |
+| **[`scan_security`](https://github.com/bdelnoz/scan_security)** | PUBLIC | Shell | Shell-based security scanning toolkit with reports, usage docs, and installation guidance. |
+| **[`scripts-wifi-scan`](https://github.com/bdelnoz/scripts-wifi-scan)** | PUBLIC | Shell / Markdown | Kali WiFi scanning scripts around airodump-ng workflows and wireless reconnaissance. |
+| **[`rtl88x2bu`](https://github.com/bdelnoz/rtl88x2bu)** | PUBLIC / FORK | C | Realtek rtl88x2bu WiFi driver fork adapted for current Kali/Linux kernels and local USB WiFi/AP testing. |
+| **`deluge`** | PRIVATE | Shell / Markdown | Private repository for Deluge-related network/firewall notes and service documentation. |
+| **`jeronimo`** | PRIVATE | Shell | Private security tooling repository focused on controlled firewall permissions and process/user-specific network rules. |
+| **`kali-deep-analyse-timeframe`** | PRIVATE | Python | Forensic-style Kali analysis project for extracting and structuring timeframe-based system evidence. |
+| **`ManInTheMiddle`** | PRIVATE | Shell | Private MITM lab repository for hotspot automation, SOURCE/SVR testing, dnsmasq/hostapd services, and firewall orchestration. |
+| **`Projects_security`** | PRIVATE | Shell | Parent cybersecurity workspace covering WiFi testing, firewalling, Tapo camera labs, Kali tooling, and security automation. |
+| **`QEMU-tapo`** | PRIVATE | Shell | Private Android/QEMU test environment for Tapo camera application experiments under Kali/Debian-like systems. |
+| **`ssh_hardening`** | PRIVATE | Shell | Portable and reversible SSH server deployment and hardening repository. |
+| **`tapo`** | PRIVATE | Shell | Private Tapo camera lab repository covering dashboard notes, Tailscale/STUN investigations, and remote-access diagnostics. |
+| **`usb_enc`** | PRIVATE | Shell | USB encryption and partition-management repository focused on Linux removable-media workflows. |
+| **`wlaninfo`** | PRIVATE | Shell | Private WLAN information utility repository for Kali WiFi interface inspection and wireless diagnostics. |
 
 ### 🐧 Linux, System Administration & Storage
 
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **[`systemctl_mounting`](https://github.com/bdelnoz/systemctl_mounting)** | PUBLIC | No | Mixed | Repository focused on systemctl mounting workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`scripts_root`](https://github.com/bdelnoz/scripts_root)** | PUBLIC | No | Mixed | Repository focused on scripts root workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`live-build-config`](https://github.com/bdelnoz/live-build-config)** | PUBLIC | No | Mixed | Repository focused on live build config workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`non_destructive_ntfs_audit`](https://github.com/bdelnoz/non_destructive_ntfs_audit)** | PUBLIC | No | Mixed | Repository focused on non destructive ntfs audit workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`mountVG`](https://github.com/bdelnoz/mountVG)** | PUBLIC | No | Mixed | Repository focused on mountVG workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`kali-deep-analyse-timeframe`](https://github.com/bdelnoz/kali-deep-analyse-timeframe)** | PUBLIC | No | Mixed | Repository focused on kali deep analyse timeframe workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`create_luks`](https://github.com/bdelnoz/create_luks)** | PUBLIC | No | Mixed | Repository focused on create luks workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`friture-kali`](https://github.com/bdelnoz/friture-kali)** | PUBLIC | No | Mixed | Repository focused on friture kali workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`root_home`](https://github.com/bdelnoz/root_home)** | PUBLIC | No | Mixed | Repository focused on root home workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`backup_kali_root`](https://github.com/bdelnoz/backup_kali_root)** | PUBLIC | No | Mixed | Repository focused on backup kali root workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`backup_create_report`](https://github.com/bdelnoz/backup_create_report)** | PUBLIC | No | Mixed | Repository focused on backup create report workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`brave_backup_restore`](https://github.com/bdelnoz/brave_backup_restore)** | PUBLIC | No | Mixed | Repository focused on brave backup restore workflows, with practical automation and implementation-oriented engineering patterns. |
+| Project | Visibility | Tech | Focus |
+|---------|------------|------|-------|
+| **[`analyseBrave`](https://github.com/bdelnoz/analyseBrave)** | PUBLIC | Shell | Brave browser analysis repository for inspecting browser behavior, processes, arguments, and local configuration state. |
+| **[`analyseProcess`](https://github.com/bdelnoz/analyseProcess)** | PUBLIC | Shell | System process analysis repository for local Linux diagnostics and process visibility. |
+| **[`diff_files_not_copied`](https://github.com/bdelnoz/diff_files_not_copied)** | PUBLIC | Shell | Differential file-copy tool for identifying and managing files not yet synchronized between source and destination trees. |
+| **[`purgeaudio`](https://github.com/bdelnoz/purgeaudio)** | PUBLIC | Shell | Audio cleanup utility repository for resetting/purging local audio state and troubleshooting PipeWire/Pulse-related noise. |
+| **[`systemctl_mounting`](https://github.com/bdelnoz/systemctl_mounting)** | PUBLIC | Shell | SystemD mounting automation repository with install scripts and service definitions. |
+| **`backup_kali_root`** | PRIVATE | Shell | Backup automation repository for Kali root/home system data, including operational scripts and documentation. |
+| **`casa2koutou_config`** | PRIVATE | Shell | Private migration/configuration repository for moving configuration from casablanca to koutoubia. |
+| **`casamovetokoutou`** | PRIVATE | Shell | Private migration toolkit for moving selected data/configuration between Kali installations. |
+| **`dashboard`** | PRIVATE | Python | Private Python/Textual dashboard for hotspot services, firewall events, interface status, Tapo state, weather, and system metrics. |
+| **`findgit`** | PRIVATE | Shell / Markdown | Private utility for discovering local Git repositories and related metadata. |
+| **`mountVG`** | PRIVATE | Shell | Private volume-group mounting repository for encrypted/LVM storage mounting workflows. |
+| **`Packages_Documentation`** | PRIVATE | Shell / Markdown | Private documentation repository for Kali package installation, HTTPS-only repositories, and tooling setup notes. |
+| **`Projects_system`** | PRIVATE | Shell | Parent Linux system workspace for workstation maintenance, migration, dashboarding, package documentation, and system diagnostics. |
+| **`root_home`** | PRIVATE | C | Private backup-data repository preserving root/home documentation and system artifacts; public-facing details intentionally limited. |
 
 ### 🎥 Media, Audio, Video & Signal Processing
 
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **[`purgeaudio`](https://github.com/bdelnoz/purgeaudio)** | PUBLIC | No | Mixed | Repository focused on purgeaudio workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`mp4_to_images_per_second`](https://github.com/bdelnoz/mp4_to_images_per_second)** | PUBLIC | No | Mixed | Repository focused on mp4 to images per second workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`compressvideo`](https://github.com/bdelnoz/compressvideo)** | PUBLIC | No | Mixed | Repository focused on compressvideo workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Overlook_record_cam`](https://github.com/bdelnoz/Overlook_record_cam)** | PUBLIC | No | Mixed | Repository focused on Overlook record cam workflows, with practical automation and implementation-oriented engineering patterns. |
+| Project | Visibility | Tech | Focus |
+|---------|------------|------|-------|
+| **[`compressvideo`](https://github.com/bdelnoz/compressvideo)** | PUBLIC | Shell | Video compression utility repository for reducing video size while preserving usable quality. |
+| **[`friture-kali`](https://github.com/bdelnoz/friture-kali)** | PUBLIC | Shell | Kali-focused realtime audio spectrum/signal-analysis setup around Friture and Python virtual environment constraints. |
+| **[`mp4_to_images_per_second`](https://github.com/bdelnoz/mp4_to_images_per_second)** | PUBLIC | Shell | Utility to extract images or frames from MP4 videos at regular per-second intervals. |
+| **`Projects_multimedia`** | PRIVATE | Shell | Parent multimedia workspace for audio, video, spectrum-analysis, and media-processing experiments. |
+| **`song_maker_AI_local`** | PRIVATE | Shell / Markdown | AI-assisted song and media production workflow repository covering lyrics, audio generation, and video assembly concepts. |
 
 ### 🔧 Developer Tools & GitHub Automation
 
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **[`bdelnoz.github.io`](https://github.com/bdelnoz/bdelnoz.github.io)** | PUBLIC | No | Mixed | Repository focused on bdelnoz.github.io workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`create_repo_temp`](https://github.com/bdelnoz/create_repo_temp)** | PUBLIC | No | Mixed | Repository focused on create repo temp workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`init_project`](https://github.com/bdelnoz/init_project)** | PUBLIC | No | Mixed | Repository focused on init project workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`create_repo`](https://github.com/bdelnoz/create_repo)** | PUBLIC | No | Mixed | Repository focused on create repo workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`create_gitignore`](https://github.com/bdelnoz/create_gitignore)** | PUBLIC | No | Mixed | Repository focused on create gitignore workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`createCONTACTfromApple`](https://github.com/bdelnoz/createCONTACTfromApple)** | PUBLIC | No | Mixed | Repository focused on createCONTACTfromApple workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`convdocx`](https://github.com/bdelnoz/convdocx)** | PUBLIC | No | Mixed | Repository focused on convdocx workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`checkdeepdisk`](https://github.com/bdelnoz/checkdeepdisk)** | PUBLIC | No | Mixed | Repository focused on checkdeepdisk workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`catall`](https://github.com/bdelnoz/catall)** | PUBLIC | No | Mixed | Repository focused on catall workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Projects_utility`](https://github.com/bdelnoz/Projects_utility)** | PUBLIC | No | Mixed | Repository focused on Projects utility workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`syncgit`](https://github.com/bdelnoz/syncgit)** | PUBLIC | No | Mixed | Repository focused on syncgit workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`findgit`](https://github.com/bdelnoz/findgit)** | PUBLIC | No | Mixed | Repository focused on findgit workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`dashboard`](https://github.com/bdelnoz/dashboard)** | PUBLIC | No | Mixed | Repository focused on dashboard workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Projects_system`](https://github.com/bdelnoz/Projects_system)** | PUBLIC | No | Mixed | Repository focused on Projects system workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Projects_py`](https://github.com/bdelnoz/Projects_py)** | PUBLIC | No | Mixed | Repository focused on Projects py workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Projects_network`](https://github.com/bdelnoz/Projects_network)** | PUBLIC | No | Mixed | Repository focused on Projects network workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Projects_multimedia`](https://github.com/bdelnoz/Projects_multimedia)** | PUBLIC | No | Mixed | Repository focused on Projects multimedia workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Projects_installation`](https://github.com/bdelnoz/Projects_installation)** | PUBLIC | No | Mixed | Repository focused on Projects installation workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Projects_divers`](https://github.com/bdelnoz/Projects_divers)** | PUBLIC | No | Mixed | Repository focused on Projects divers workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`scripts`](https://github.com/bdelnoz/scripts)** | PUBLIC | No | Mixed | Repository focused on scripts workflows, with practical automation and implementation-oriented engineering patterns. |
+| Project | Visibility | Tech | Focus |
+|---------|------------|------|-------|
+| **[`convdocx`](https://github.com/bdelnoz/convdocx)** | PUBLIC | Shell | Recursive Markdown-to-DOCX conversion utility using Pandoc while preserving directory layout and base filenames. |
+| **[`cpx`](https://github.com/bdelnoz/cpx)** | PUBLIC | Shell | File-copy utility repository for local copy workflows and automation documentation. |
+| **[`create_gitignore`](https://github.com/bdelnoz/create_gitignore)** | PUBLIC | Shell | Shell utility for generating `.gitignore` files from curated templates and CLI options. |
+| **[`create_repo`](https://github.com/bdelnoz/create_repo)** | PUBLIC | Shell | Repository creation automation tool for local/GitHub project initialization, docs, and scaffold setup. |
+| **[`create_repo_temp`](https://github.com/bdelnoz/create_repo_temp)** | PUBLIC | Shell | Project Summary - Name: createrepo - Purpose: Bash script to create/delete local and GitHub repositories, apply templates, and generate .gitignore files. - Primary Entry Point: createrepo.sh |
+| **[`init_project`](https://github.com/bdelnoz/init_project)** | PUBLIC | Shell | Lightweight bootstrap structure for local AI/LLM and script projects. |
+| **[`non_destructive_ntfs_audit`](https://github.com/bdelnoz/non_destructive_ntfs_audit)** | PUBLIC | Shell | Non-destructive NTFS audit utility for safe inspection and reporting without repair or write-side filesystem changes. |
+| **[`syncgit`](https://github.com/bdelnoz/syncgit)** | PUBLIC | Shell | Bash automation tool that discovers local Git repositories and runs controlled sync, backup, reporting, and inventory operations. |
+| **`backup_create_report`** | PRIVATE | Shell / Markdown | Backup reporting repository reserved for producing structured reports around backup operations. |
+| **`catall`** | PRIVATE | Shell | Private utility for concatenating or inspecting file sets during local analysis workflows. |
+| **`checkdeepdisk`** | PRIVATE | Shell | Private deep-disk inspection utility; intentionally non-destructive and not a disk-repair tool. |
+| **`createCONTACTfromApple`** | PRIVATE | Shell | Private utility for creating contacts from Apple-derived contact data. |
+| **`Projects_utility`** | PRIVATE | Shell | Parent utility workspace for reusable shell tools, repository scaffolding, file conversion, and audit helpers. |
 
 ### 🌐 Web, Browser Extensions & Productivity
 
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **[`firefoxVTTextension`](https://github.com/bdelnoz/firefoxVTTextension)** | PUBLIC | No | Mixed | Repository focused on firefoxVTTextension workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`brave-fb-onlyme-extension-extract-info`](https://github.com/bdelnoz/brave-fb-onlyme-extension-extract-info)** | PUBLIC | No | Mixed | Repository focused on brave fb onlyme extension extract info workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`brave-fb-onlyme-extension`](https://github.com/bdelnoz/brave-fb-onlyme-extension)** | PUBLIC | No | Mixed | Repository focused on brave fb onlyme extension workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`analyseBrave`](https://github.com/bdelnoz/analyseBrave)** | PUBLIC | No | Mixed | Repository focused on analyseBrave workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Emploi_public`](https://github.com/bdelnoz/Emploi_public)** | PUBLIC | No | Mixed | Repository focused on Emploi public workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Emploi`](https://github.com/bdelnoz/Emploi)** | PUBLIC | No | Mixed | Repository focused on Emploi workflows, with practical automation and implementation-oriented engineering patterns. |
+| Project | Visibility | Tech | Focus |
+|---------|------------|------|-------|
+| **[`brave-fb-onlyme-extension`](https://github.com/bdelnoz/brave-fb-onlyme-extension)** | PUBLIC | JavaScript | Browser extension for extracting and managing Facebook “Only Me” post information with local-first workflow constraints. |
+| **[`brave-fb-onlyme-extension-extract-info`](https://github.com/bdelnoz/brave-fb-onlyme-extension-extract-info)** | PUBLIC | JavaScript / Shell | Data-oriented companion repository for extracting and documenting Brave/Facebook extension information. |
+| **[`braveVTTextension`](https://github.com/bdelnoz/braveVTTextension)** | PUBLIC | Shell | French Brave extension for 100% local Whisper-based speech-to-text with privacy-first browser input workflows. |
+| **[`braveVTTextension_en`](https://github.com/bdelnoz/braveVTTextension_en)** | PUBLIC | Shell | English Brave extension for local Whisper speech-to-text with auto-stop, auto-enter, and zero-cloud transcription goals. |
+| **`LinkedIn-Learning-Downloader`** | PUBLIC | Shell / Markdown | LinkedIn Learning downloader repository retained in the web/productivity tooling family. |
+| **`brave_backup_restore`** | PRIVATE | Shell | Brave browser backup/restore repository for profile/config preservation and operational documentation. |
+| **`firefoxVTTextension`** | PRIVATE | JavaScript | Firefox extension variant for local Whisper speech-to-text transcription. |
+| **`regles_contextualisation`** | PRIVATE | Shell / Markdown | Private rules repository for AI contextualization, scripting rules, and prompt-governance material used across ChatGPT, Claude, Grok, and Le Chat. |
 
-### 🍓 Raspberry Pi, Lab & Hardware Projects
+### 🍓 Raspberry Pi, Lab & Hardware
 
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **[`usb_enc`](https://github.com/bdelnoz/usb_enc)** | PUBLIC | No | Mixed | Repository focused on usb enc workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`tapo`](https://github.com/bdelnoz/tapo)** | PUBLIC | No | Mixed | Repository focused on tapo workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`rasperry-utils`](https://github.com/bdelnoz/rasperry-utils)** | PUBLIC | No | Mixed | Repository focused on rasperry utils workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`rasperry-post-install`](https://github.com/bdelnoz/rasperry-post-install)** | PUBLIC | No | Mixed | Repository focused on rasperry post install workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`rasperry-micro`](https://github.com/bdelnoz/rasperry-micro)** | PUBLIC | No | Mixed | Repository focused on rasperry micro workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`rasperry`](https://github.com/bdelnoz/rasperry)** | PUBLIC | No | Mixed | Repository focused on rasperry workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`QEMU-tapo`](https://github.com/bdelnoz/QEMU-tapo)** | PUBLIC | No | Mixed | Repository focused on QEMU tapo workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`rasperry-multiboot`](https://github.com/bdelnoz/rasperry-multiboot)** | PUBLIC | No | Mixed | Repository focused on rasperry multiboot workflows, with practical automation and implementation-oriented engineering patterns. |
+| Project | Visibility | Tech | Focus |
+|---------|------------|------|-------|
+| **`rasperry`** | PRIVATE | Shell | Raspberry Pi / Kali activation and provisioning toolkit. |
+| **`rasperry-bt-scan`** | PRIVATE | Shell | Raspberry Pi Bluetooth scanning repository for defensive wireless visibility and local lab work. |
+| **`rasperry-micro`** | PRIVATE | Shell | Raspberry Pi audio/microphone repository for headless recording and frequency-triggered alert concepts. |
+| **`rasperry-multiboot`** | PRIVATE | Shell | Raspberry Pi multi-boot and SD-card provisioning toolkit for Kali/alternate OS experiments. |
+| **`rasperry-post-install`** | PRIVATE | Shell | Raspberry Pi post-install automation repository for Kali and lab setup tasks. |
+| **`rasperry-scanbt`** | PRIVATE | Shell | Defensive Bluetooth scanning repository; not intended as an offensive Bluetooth toolkit. |
+| **`rasperry-utils`** | PRIVATE | Shell | Raspberry Pi utility repository for exporting SD-card configuration and lab operational data. |
 
-### 📚 Documentation, Standards & Knowledge Bases
+### 🧭 Portfolio & Website
 
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **[`regles_contextualisation`](https://github.com/bdelnoz/regles_contextualisation)** | PUBLIC | No | Mixed | Repository focused on regles contextualisation workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`Packages_Documentation`](https://github.com/bdelnoz/Packages_Documentation)** | PUBLIC | No | Mixed | Repository focused on Packages Documentation workflows, with practical automation and implementation-oriented engineering patterns. |
-| **[`ods-cookbook`](https://github.com/bdelnoz/ods-cookbook)** | PUBLIC | No | Mixed | Repository focused on ods cookbook workflows, with practical automation and implementation-oriented engineering patterns. |
+| Project | Visibility | Tech | Focus |
+|---------|------------|------|-------|
+| **[`bdelnoz.github.io`](https://github.com/bdelnoz/bdelnoz.github.io)** | PUBLIC | Shell / Markdown | GitHub Pages portfolio repository containing the professional website, CV resources, styling, and generated portfolio drafts. |
+| **[`bdelnoz.github.io`](https://github.com/bdelnoz/bdelnoz.github.io)** | PUBLIC | Shell / Markdown | Local mirror/staging copy of the GitHub Pages portfolio repository. |
 
-### 🔒 Private Professional Projects
+### 📦 Other Local Projects
 
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **`Spoon-Knife`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`kdbx`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`divers`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`cmd.disable_brol_notneeded`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`captureNoXoZ`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`cpx`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`diff_files_not_copied`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`casamovetokoutou`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`casa2koutou_config`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`analyseProcess`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`ManInTheMiddle`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`jeronimo`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`deluge`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`RikHunter`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`Gamblox`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
-| **`ColtSivers`** | PRIVATE | No | Confidential | Private professional repository maintained for internal delivery, controlled experimentation, and secure technical operations. |
+| Project | Visibility | Tech | Focus |
+|---------|------------|------|-------|
+| **`cmd`** | PRIVATE | Shell / Markdown | Local repository for cmd tooling and documentation |
+| **`divers`** | PRIVATE | Shell | Private miscellaneous repository for small experiments and local utility material. |
+| **`kdbx`** | PRIVATE | Shell / Markdown | Private repository related to KeePass/KDBX handling or documentation; details intentionally limited. |
+| **`live-build-config`** | PRIVATE | Shell | Private Kali live-build configuration repository based on Kali build-script workflows. |
+| **`Projects_divers`** | PRIVATE | HTML | Private miscellaneous project workspace containing diverse personal and utility material. |
+| **`Projects_installation`** | PRIVATE | Shell | Private installation-script workspace for OS/application setup and workstation installation notes. |
+| **`Projects_network`** | PRIVATE | Shell | Private network tooling workspace for WiFi, P2P, and local network diagnostic material. |
+| **`Projects_py`** | PRIVATE | Shell | Private Python experiments workspace containing browser automation and local development tests. |
+| **`scripts`** | PRIVATE | Shell / Markdown | Parent scripts workspace organizing the local repository collection and shared automation material. |
+| **`scripts_root`** | PRIVATE | Shell | Private root scripts repository for privileged/local system automation. |
+| **`Spoon-Knife`** | PRIVATE | HTML | Private GitHub demonstration/fork-style repository retained for testing and workflow experiments. |
+| **`TEST_REPO`** | PRIVATE | Shell / Markdown | Private test repository used for validating repository creation, sync, and automation workflows. |
 
-### 🔁 Forked / Upstream-Based Repositories
+## REPOSITORY STATISTICS
 
-| Project | Visibility | Fork | Language | Description |
-|---------|------------|------|----------|-------------|
-| **[`rtl88x2bu`](https://github.com/bdelnoz/rtl88x2bu)** | PUBLIC | Yes | Upstream-based | Fork repository retained for compatibility analysis, adaptation testing, and upstream-aligned integration work. |
-| **[`lucivy`](https://github.com/bdelnoz/lucivy)** | PUBLIC | Yes | Upstream-based | Fork repository retained for compatibility analysis, adaptation testing, and upstream-aligned integration work. |
-| **[`rtk-reduce-tokens`](https://github.com/bdelnoz/rtk-reduce-tokens)** | PUBLIC | Yes | Upstream-based | Fork repository retained for compatibility analysis, adaptation testing, and upstream-aligned integration work. |
-| **[`Mega_s4-specs`](https://github.com/bdelnoz/Mega_s4-specs)** | PUBLIC | Yes | Upstream-based | Fork repository retained for compatibility analysis, adaptation testing, and upstream-aligned integration work. |
-| **[`w3id.org`](https://github.com/bdelnoz/w3id.org)** | PUBLIC | Yes | Upstream-based | Fork repository retained for compatibility analysis, adaptation testing, and upstream-aligned integration work. |
-| **[`owasp-modsecurity-crs`](https://github.com/bdelnoz/owasp-modsecurity-crs)** | PUBLIC | Yes | Upstream-based | Fork repository retained for compatibility analysis, adaptation testing, and upstream-aligned integration work. |
-| **[`active-directory-dotnet-webapi-manual-jwt-validation`](https://github.com/bdelnoz/active-directory-dotnet-webapi-manual-jwt-validation)** | PUBLIC | Yes | Upstream-based | Fork repository retained for compatibility analysis, adaptation testing, and upstream-aligned integration work. |
+| Metric | Count | Source |
+|--------|------:|--------|
+| Local Git repositories listed in this portfolio | 103 | Local `.git` discovery |
+| Public local repositories | 38 | `syncgit.sh --listpubpriv` |
+| Private local repositories | 65 | `syncgit.sh --listpubpriv` |
+| Forks in the analyzed local set | 2 | Matching local repositories against GitHub metadata |
+| Remote GitHub repositories seen in metadata pack | 105 | `gh repo list` snapshot |
+| Remote GitHub public repositories seen in metadata pack | 41 | `gh repo list` snapshot |
+| Remote GitHub private repositories seen in metadata pack | 64 | `gh repo list` snapshot |
+| Remote GitHub forks seen in metadata pack | 7 | `gh repo list` snapshot |
 
-### 📊 Repository Statistics
-
-- Total repositories listed in this portfolio: **104**.
-- Public or public-facing repositories: **88**.
-- Private repositories (listed without private URLs): **16**.
-- Fork repositories: **7**.
-- Inventory reference date: **2026-04-29**.
-
+The local portfolio count and visibility classification are intentionally separated from the remote GitHub metadata count. The portfolio content is based on the local repositories and their documentation.
 
 ## CONTACT & PROFILE
 
@@ -200,15 +240,6 @@ layout: default
 - **Availability:** Immediate | Remote/Hybrid/On-site
 - **Security Clearance:** Available upon request
 
-## EXECUTIVE SUMMARY
-
-Deeply passionate about AI/ML with a fascination for how models work and their transformative or disruptive potential. I approach this field with the same pioneering spirit that defined the early web era of the 1990s—where creativity and innovation are the only boundaries, and limitless possibilities emerge when knowledge is no longer the limiting factor.
-
-Elite technical polymath with 30+ years of progressive experience spanning infrastructure architecture, advanced scripting, cybersecurity, and artificial intelligence. Recognized expert in Bash/Python automation, AI/ML integration, and complex system optimization.
-
-Proven track record of delivering innovative solutions that bridge traditional IT infrastructure with cutting‑edge AI technologies. Successfully architected and deployed 100+ production‑grade automation tools, reducing operational overhead by up to 70% while enhancing security postures across multiple environments.
-
-**Core Expertise:** AI/ML Integration • Advanced Scripting • Network Security • System Architecture • DevOps/Automation • Open Source Development
 
 ## TECHNICAL EXPERTISE
 
